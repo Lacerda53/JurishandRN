@@ -1,0 +1,4 @@
+export const types = {
+    SET_SUBSCRIPTION_MODAL: '@app/SET_SUBSCRIPTION_MODAL',
+    SET_IS_SUBSCRIPTED: '@app/SET_IS_SUBSCRIPTED',
+};
